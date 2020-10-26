@@ -1,0 +1,33 @@
+.card {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-name {
+    text-align: center;
+}
+
+.tasks {
+    margin-top: 6%;
+}
+
+.flex {
+    display: flex
+}
+
+a{
+    padding: 2px;
+}
+
+.p-b-5{
+    padding-bottom: 5px;
+}
+
+.p-t-10per{
+    padding-top: 10%;
+}
